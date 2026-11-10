@@ -106,7 +106,7 @@ Then start it:
 ```
 npm run dev
 ```
-It runs at http://localhost:5060. Opening that address should show "Study planner API is running".
+It runs at http://localhost:5010. Opening that address should show "Study planner API is running".
 
 **2. Frontend** (second terminal)
 ```
@@ -115,7 +115,7 @@ npm install
 ```
 Copy `.env.example` to `.env`:
 ```
-VITE_API_URL=http://localhost:5060
+VITE_API_URL=http://localhost:5010
 ```
 Then start it:
 ```
