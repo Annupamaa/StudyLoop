@@ -126,4 +126,3 @@ Open http://localhost:5173.
 
 ## Ideas to extend
 Email reminders with a scheduled job, weekly analytics charts, drag-and-drop calendar, automated tests with Vitest and Supertest.
-# StudyLoop
